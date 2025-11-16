@@ -564,18 +564,19 @@
   },
   {
     "id": "28",
-    "name": "Estuche Portanavaja/Multiusos de Piel",
-    "description": "Estuche pequeño de piel curtida en color marrón coñac, diseñado para guardar navajas, cuchillos plegables u otras herramientas pequeñas. Cuenta con un cierre de broche de presión metálico.",
+    "name": "Bolso Cuadrado Artesanal Repujado 'Búho'",
+    "description": "Bolso de mano o maletín pequeño de diseño cuadrado. Presenta un elaborado repujado y pintura a mano de un diseño de búho o lechuza, enmarcado en un fondo de color rosa metálico o malva.",
     "category": "bolsos",
     "images": [
-      "/products/bolsos/bolso_7.jpeg"
+      "products/bolsos/bolso_7.jpeg"
     ],
-    "colors": ["Marrón Coñac"],
+    "colors": ["Rosa/Malva Metálico", "Marrón (Asa)", "Colores Pintados"],
     "product_detail": [
-      "Fabricado en cuero grueso con costuras robustas.",
-      "Cierre con broche metálico para asegurar la herramienta.",
-      "Cordón de piel para transporte o ajuste.",
-      "Dimensiones aproximadas: 10-12 cm de largo."
+      "Confección rígida con asas de mano y cremallera superior.",
+      "El panel frontal presenta un detallado repujado y pintura del diseño del búho.",
+      "Búho decorado con motivos bohemios y un atrapasueños.",
+      "Incluye un detalle de borla o dije de piel en el asa.",
+      "Ideal como accesorio de moda o maletín compacto."
     ],
     "inStock": true
   },
