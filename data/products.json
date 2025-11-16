@@ -566,9 +566,9 @@
     "id": "28",
     "name": "Estuche Portanavaja/Multiusos de Piel",
     "description": "Estuche pequeño de piel curtida en color marrón coñac, diseñado para guardar navajas, cuchillos plegables u otras herramientas pequeñas. Cuenta con un cierre de broche de presión metálico.",
-    "category": "accesorios",
+    "category": "bolsos",
     "images": [
-      "/products/accesorios/bolso_7.jpeg"
+      "/products/bolsos/bolso_7.jpeg"
     ],
     "colors": ["Marrón Coñac"],
     "product_detail": [
@@ -580,12 +580,12 @@
     "inStock": true
   },
   {
-    "id": "30",
+    "id": "29",
     "name": "Bolso Artesanal de Mano Repujado 'Colibrí y Flores'",
     "description": "Bolso de mano de cuero rígido con un diseño artístico de colibrí y motivos florales en relieve, realzado con pintura a mano en colores vibrantes. Cierre superior con solapa.",
     "category": "bolsos",
     "images": [
-      "/products/bolsos/bolso_8.jpg"
+      "/products/bolsos/bolso_8.jpeg"
     ],
     "colors": ["Marrón Oscuro", "Negro (Ribetes)", "Colores Pintados"],
     "product_detail": [
