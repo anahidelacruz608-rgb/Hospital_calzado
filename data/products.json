@@ -3,7 +3,6 @@
     "id": "1",
     "name": "Mochila Artesanal Colibrí",
     "description": "Mochila/Bolso artesanal de cuero con grabado en relieve de pájaro y flores, presenta un diseño rústico y detallado con un acabado bitono en tonos tierra.",
-    "price": 1800,
     "category": "bolsos",
     "images": [
       "/products/bolsos/bolso_1.jpeg",
@@ -22,7 +21,6 @@
     "id": "2",
     "name": "Clutch Colibrí Metálico",
     "description": "Bolso de mano o clutch compacto de cuero con grabado en relieve metálico de colibrí y flores, presenta un diseño elegante con un acabado iridiscente o pátina plateada/bronce.",
-    "price": 1800,
     "category": "bolsos",
     "images": [
       "/products/bolsos/bolso_2.jpeg",
@@ -42,7 +40,6 @@
     "id": "3",
     "name": "Bandolera Vaquera Pelo y Flecos",
     "description": "Bolso de hombro o bandolera con un audaz diseño estilo vaquero/boho-chic, combinando cuero de pelo (piel de vaca) con cuero rojo decorado con flecos y remaches metálicos.",
-    "price": 1800,
     "category": "bolsos",
     "images": [
       "/products/bolsos/bolso_3.jpg"
@@ -60,7 +57,6 @@
     "id": "4",
     "name": "Cinturón Western Hebilla Grabada",
     "description": "Cinturón de cuero estilo vaquero o Western en tono marrón medio, destacado por una hebilla grande y elaborada de diseño metálico con filigrana.",
-    "price": 1800,
     "category": "cinturones",
     "images": [
       "/products/cinturones/cinturon_1.jpeg"
@@ -78,7 +74,6 @@
     "id": "5",
     "name": "Cinturón Cuero Grueso Doble Púa",
     "description": "Cinturón de cuero casual/robusto de diseño ancho y clásico, presenta un color marrón rojizo brillante y una hebilla rectangular de doble púa con acabado negro mate.",
-    "price": 1800,
     "category": "cinturones",
     "images": [
       "/products/cinturones/cinturon_2.jpeg"
@@ -96,7 +91,6 @@
     "id": "6",
     "name": "Cinturón Trenzado Artesanal Caramelo",
     "description": "Cinturón de cuero estilo artesanal Western con un color caramelo, caracterizado por su patrón de trenzado y grabado geométrico a lo largo de la correa y una hebilla plateada ornamentada.",
-    "price": 1800,
     "category": "cinturones",
     "images": [
       "/products/cinturones/cinturon_3.jpeg"
@@ -114,7 +108,6 @@
     "id": "7",
     "name": "Cinturón Formal Negro con Costura Blanca",
     "description": "Cinturón de vestir o formal de cuero negro con un diseño clásico, contrastado por una costura visible en color blanco.",
-    "price": 1800,
     "category": "cinturones",
     "images": [
       "/products/cinturones/cinturon_4.jpeg"
@@ -132,7 +125,6 @@
     "id": "8",
     "name": "Cinturón Casual Doble Costura Central",
     "description": "Cinturón de cuero de diseño casual con una doble costura decorativa centrada en la correa. Su estilo es robusto y moderno, ideal para vestimenta casual.",
-    "price": 1800,
     "category": "cinturones",
     "images": [
       "/products/cinturones/cinturon_5.jpeg"
@@ -159,7 +151,7 @@
       "id": "9",
       "name": "Set Ejecutivo: Maletín y Mochila Negra",
       "description": "Línea de accesorios ejecutivos en cuero negro, caracterizada por su diseño minimalista y funcionalidad profesional. Incluye un maletín de mensajero y una mochila espaciosa.",
-      "price": 3000,
+
       "category": "bolsos",
       "images": [
         "/products/bolsos/bolso_4.jpeg"
@@ -177,7 +169,6 @@
     "id": "10",
     "name": "Bolso Bandolera con Piel de Escamas",
     "description": "Bolso de hombro o bandolera de diseño rectangular, destacando por su panel central con una textura marcada que simula escamas de pescado o reptil.",
-    "price": 2500,
     "category": "bolsos",
     "images": [
       "/products/bolsos/bolso_5.jpeg"
@@ -195,7 +186,6 @@
     "id": "11",
     "name": "Bolso Tote Artesanal con Repujado Floral",
     "description": "Bolso de mano y hombro de cuero con un diseño repujado completamente artesanal de intrincados motivos florales y de filigrana, destacando por su acabado bitono.",
-    "price": 3800,
     "category": "bolsos",
     "images": [
       "/products/bolsos/bolso_6.jpeg"
@@ -212,9 +202,7 @@
   {
     "id": "12",
     "name": "Funda de Cuero Plegable con Broche",
-    "description": "Funda de cuero de diseño clásico y funcional, ideal para llevar tarjetas, documentos o un teléfono. Presenta un broche de solapa y costuras de contraste.",
-    "price": 950,
-    "category": "accesorios-telefono",
+    "description": "Funda de cuero de diseño clásico y funcional, ideal para llevar tarjetas, documentos o un teléfono. Presenta un broche de solapa y costuras de contraste.",    "category": "accesorios-telefono",
     "images": [
       "/products/accesorios/accesorio_1.jpg"
     ],
@@ -230,9 +218,7 @@
   {
     "id": "13",
     "name": "Funda Estuche de Cuero para Teléfono Plegable",
-    "description": "Estuche protector de cuero genuino, diseñado para guardar de forma segura un teléfono, herramienta, navaja plegable o llaves. Cuenta con un broche de solapa y cordón de seguridad.",
-    "price": 650,
-    "category": "accesorios-telefono",
+    "description": "Estuche protector de cuero genuino, diseñado para guardar de forma segura un teléfono, herramienta, navaja plegable o llaves. Cuenta con un broche de solapa y cordón de seguridad.",    "category": "accesorios-telefono",
     "images": [
       "/products/accesorios/accesorio_2.jpeg"
     ],
@@ -248,9 +234,7 @@
   {
     "id": "14",
     "name": "Billetera Clásica Bi-Fold de Cuero",
-    "description": "Cartera de hombre tradicional de dos pliegues (bi-fold), confeccionada en cuero con un acabado liso y minimalista, ideal para uso diario.",
-    "price": 850,
-    "category": "carteras",
+    "description": "Cartera de hombre tradicional de dos pliegues (bi-fold), confeccionada en cuero con un acabado liso y minimalista, ideal para uso diario.",    "category": "carteras",
     "images": [
       "/products/carteras/cartera_1.jpeg"
     ],
@@ -267,7 +251,6 @@
     "id": "15",
     "name": "Billetera Plegable Piel de Serpiente",
     "description": "Cartera de diseño elegante, confeccionada con piel genuina de serpiente o reptil, presentando un patrón distintivo en tonos blanco, crema y negro.",
-    "price": 1500,
     "category": "carteras",
     "images": [
       "/products/carteras/cartera_2.jpeg"
@@ -285,7 +268,6 @@
     "id": "16",
     "name": "Clutch de Mano con Piel de Cocodrilo",
     "description": "Estuche de mano (clutch) de diseño rectangular, confeccionado con piel grabada o genuina de cocodrilo/caimán, ideal para llevar lo esencial con un estilo de lujo.",
-    "price": 2400,
     "category": "carteras",
     "images": [
       "/products/carteras/cartera_3.jpeg"
@@ -303,7 +285,6 @@
     "id": "17",
     "name": "Conjunto de Estuches Piel con Pelo",
     "description": "Colección de estuches y carteras artesanales confeccionados con piel de vaca (pelo), presentando un estilo rústico y patrones de color únicos.",
-    "price": 1500,
     "category": "carteras",
     "images": [
       "/products/carteras/cartera_4.jpeg"
@@ -321,7 +302,6 @@
     "id": "18",
     "name": "Billetera Western Piel y Broche Toro",
     "description": "Cartera de estilo Western o Biker, combinando cuero texturizado negro, piel de serpiente/reptil y un trenzado decorativo, coronada con un emblema metálico de cráneo de toro.",
-    "price": 1650,
     "category": "carteras",
     "images": [
       "/products/carteras/cartera_5.jpg"
@@ -339,7 +319,6 @@
     "id": "19",
     "name": "Billetera Pieles con Costura Trenzada",
     "description": "Billetera bi-fold de diseño artesanal y robusto. Combina diferentes pieles  y texturizadas unidas por una distintiva costura central de látigo o trenzada.",
-    "price": 1850,
     "category": "carteras",
     "images": [
       "/products/carteras/cartera_6.jpeg"
@@ -370,7 +349,7 @@
       "id": "20",
       "name": "Bota Vaquera Puntera Cuadrada Bordado",
       "description": "Bota vaquera artesanal de caña media, elaborada en cuero tostado con un llamativo bordado de filigrana blanca en la caña y puntera cuadrada. Modelo unisex.",
-      "price": 3500, 
+ 
       "category": "calzado",
       "images": [
         "/products/calzado/calzado_1.jpeg"
@@ -393,7 +372,7 @@
       "id": "21",
       "name": "Bota Industrial Tobillera Suela Antideslizante",
       "description": "Bota de trabajo de caña baja (tobillera) en cuero color café/rojizo, con suela robusta y gruesa de color negro, diseñada para proporcionar seguridad y tracción.",
-      "price": 1800,
+
       "category": "calzado",
       "images": [
         "/products/calzado/calzado_2.jpeg"
@@ -414,8 +393,7 @@
   {
     "id": "22",
     "name": "Botín Chelsea Western Puntera Cuadrada",
-    "description": "Botín tobillero estilo Chelsea con un toque Western, presenta paneles elásticos laterales y una puntera ligeramente cuadrada. Ideal para un look elegante y cómodo.",
-    "price": 3800, 
+    "description": "Botín tobillero estilo Chelsea con un toque Western, presenta paneles elásticos laterales y una puntera ligeramente cuadrada. Ideal para un look elegante y cómodo.", 
     "category": "calzado",
     "images": [
       "/products/calzado/calzado_3f4.jpeg"
@@ -453,8 +431,7 @@
   {
     "id": "23",
     "name": "Botín Chelsea Elegante Puntera Fina",
-    "description": "Botín de cuero estilo Chelsea de diseño más estilizado, con puntera ligeramente más redonda y fina. Ofrece un ajuste cómodo con elásticos laterales y es ideal para uso formal o casual.",
-    "price": 3950, 
+    "description": "Botín de cuero estilo Chelsea de diseño más estilizado, con puntera ligeramente más redonda y fina. Ofrece un ajuste cómodo con elásticos laterales y es ideal para uso formal o casual.", 
     "category": "calzado",
     "images": [
       "/products/calzado/calzado_4f4.jpeg"
@@ -501,8 +478,7 @@
   {
     "id": "24",
     "name": "Zapato Derby Charol Negro Plataforma",
-    "description": "Zapato de vestir (Derby/Blucher) de acabado charol negro y alto brillo, ideal para uniformes, looks urbanos o subculturales. Presenta una suela gruesa tipo plataforma.",
-    "price": 2100, 
+    "description": "Zapato de vestir (Derby/Blucher) de acabado charol negro y alto brillo, ideal para uniformes, looks urbanos o subculturales. Presenta una suela gruesa tipo plataforma.", 
     "category": "calzado",
     "images": [
       "/products/calzado/calzado_5f2.jpeg"
@@ -524,7 +500,6 @@
     "id": "25",
     "name": "Botín Elegante Negro con Cremallera",
     "description": "Botín de vestir o de estilo jinete en cuero negro liso, con caña media y cierre de cremallera lateral para un ajuste fácil. Destaca por su puntera ligeramente afilada y tacón bajo de estilo cubano.",
-    "price": 3600,
     "category": "calzado",
     "images": [
       "/products/calzado/calzado_6.jpeg",
@@ -547,8 +522,7 @@
   {
     "id": "26",
     "name": "Bota Vaquera Clásica Bordado Caña Alta",
-    "description": "Bota vaquera tradicional de caña alta en cuero negro con una puntera redondeada. La caña presenta un detallado bordado de filigrana en hilo gris/plata que le da un toque auténtico y clásico.",
-    "price": 4200, 
+    "description": "Bota vaquera tradicional de caña alta en cuero negro con una puntera redondeada. La caña presenta un detallado bordado de filigrana en hilo gris/plata que le da un toque auténtico y clásico.", 
     "category": "calzado",
     "images": [
       "/products/calzado/calzado_7.jpeg",
@@ -570,8 +544,7 @@
   {
     "id": "27",
     "name": "Mocasín de Lujo Piel de Cocodrilo/Lagarto",
-    "description": "Mocasín clásico (loafer) de cuero negro con un elegante grabado de piel de cocodrilo o lagarto. Presenta un adorno metálico cromado que le da un toque de sofisticación. Ideal para eventos formales o semi-formales.",
-    "price": 4500, 
+    "description": "Mocasín clásico (loafer) de cuero negro con un elegante grabado de piel de cocodrilo o lagarto. Presenta un adorno metálico cromado que le da un toque de sofisticación. Ideal para eventos formales o semi-formales.", 
     "category": "calzado",
     "images": [
       "/products/calzado/calzado_8.jpeg" 
@@ -586,6 +559,41 @@
       "Suela plana y diseño flexible de conducción.",
       "Tallas disponibles del 24 al 30.",
       "Se pueden trabajar tallas especiales bajo pedido."
+    ],
+    "inStock": true
+  },
+  {
+    "id": "28",
+    "name": "Estuche Portanavaja/Multiusos de Piel",
+    "description": "Estuche pequeño de piel curtida en color marrón coñac, diseñado para guardar navajas, cuchillos plegables u otras herramientas pequeñas. Cuenta con un cierre de broche de presión metálico.",
+    "category": "accesorios",
+    "images": [
+      "/products/accesorios/bolso_7.jpeg"
+    ],
+    "colors": ["Marrón Coñac"],
+    "product_detail": [
+      "Fabricado en cuero grueso con costuras robustas.",
+      "Cierre con broche metálico para asegurar la herramienta.",
+      "Cordón de piel para transporte o ajuste.",
+      "Dimensiones aproximadas: 10-12 cm de largo."
+    ],
+    "inStock": true
+  },
+  {
+    "id": "30",
+    "name": "Bolso Artesanal de Mano Repujado 'Colibrí y Flores'",
+    "description": "Bolso de mano de cuero rígido con un diseño artístico de colibrí y motivos florales en relieve, realzado con pintura a mano en colores vibrantes. Cierre superior con solapa.",
+    "category": "bolsos",
+    "images": [
+      "/products/bolsos/bolso_8.jpg"
+    ],
+    "colors": ["Marrón Oscuro", "Negro (Ribetes)", "Colores Pintados"],
+    "product_detail": [
+      "Piel curtida y teñida en tonos marrones y negros.",
+      "Repujado artesanal de alta calidad en el panel frontal.",
+      "Detalles pintados a mano (colibrí, flores) con efecto iridiscente.",
+      "Asa trenzada y posibles herrajes dorados.",
+      "Incluye correa de hombro desmontable."
     ],
     "inStock": true
   }

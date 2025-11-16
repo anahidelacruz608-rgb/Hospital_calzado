@@ -63,9 +63,9 @@ export function ProductList({ onProductSelect, activeCategory }: ProductListProp
                 </p>
 
                 <div className="mt-4 flex items-center justify-between">
-                  <p className="text-lg font-semibold text-primary">
+                  {/* <p className="text-lg font-semibold text-primary">
                     ${product.price}
-                  </p>
+                  </p> */}
 
                   <span className="text-sm font-medium uppercase tracking-wide text-accent">
                     Ver detalles

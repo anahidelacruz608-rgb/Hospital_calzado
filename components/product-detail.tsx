@@ -134,7 +134,7 @@ export function ProductDetail({ product, onBack }: ProductDetailProps) {
             {/* ... Contenido del producto ... */}
 
             {/* Categoría / Título / Descripción */}
-            <div className="mb-6">
+            <div className="mb-12">
               <Badge variant="secondary" className="mb-3">
                 {product.category.replace("-", " ").toUpperCase()}
               </Badge>
@@ -147,7 +147,7 @@ export function ProductDetail({ product, onBack }: ProductDetailProps) {
             </div>
 
             {/* Precio */}
-            <div className="mb-6">
+            {/* <div className="mb-6">
               <p className="font-serif text-3xl font-bold text-primary">
                 ${product.price}
               </p>
@@ -160,7 +160,7 @@ export function ProductDetail({ product, onBack }: ProductDetailProps) {
                   Sin existencias
                 </p>
               )}
-            </div>
+            </div> */}
 
             {/* Selección de color */}
             {colorOptions.length > 0 && (

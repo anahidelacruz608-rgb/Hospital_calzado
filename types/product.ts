@@ -7,7 +7,7 @@ export interface Product {
   id: string
   name: string
   description: string
-  price: number
+  // price: number
   category: "calzado" | "carteras" | "bolsos" | "cinturones" | "accesorios-telefono"
   images: string[]
   sizes?: string[]
